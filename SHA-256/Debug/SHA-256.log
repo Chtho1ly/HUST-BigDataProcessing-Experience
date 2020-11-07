@@ -1,0 +1,4 @@
+﻿  SHA-256.cpp
+E:\BigData_Processing\SHA-256\SHA-256\SHA-256.cpp(30,11): warning C4244: “初始化”: 从“UInt64”转换到“UInt32”，可能丢失数据
+E:\BigData_Processing\SHA-256\SHA-256\SHA-256.cpp(44,13): warning C4244: “=”: 从“UInt64”转换到“UInt32”，可能丢失数据
+  SHA-256.vcxproj -> E:\BigData_Processing\SHA-256\SHA-256\Debug\SHA-256.exe
