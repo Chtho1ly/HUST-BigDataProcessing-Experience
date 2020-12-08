@@ -1,0 +1,10 @@
+package com.areong.socket.example;
+
+import com.areong.socket.Connection;
+import com.areong.socket.MessageHandler;
+
+class EchoHandler implements MessageHandler {
+        System.out.println("Send back the same message back to the client.");
+        connection.println(message);
+    }
+}

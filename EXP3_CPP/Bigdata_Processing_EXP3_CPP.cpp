@@ -564,6 +564,7 @@ int main()
 		cout << "4 update_newFile" << endl;
 		cout << "5 update_deletFile" << endl;
 		cout << "9 compare folder1 and folder2" << endl;
+		cout << "q quit" << endl;
 		char command = getchar();
 		getchar();
 		if (command == 'q')
